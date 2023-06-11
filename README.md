@@ -1,2 +1,2 @@
 # redux-cart
-Created with CodeSandbox
+Simple Cart Using Redux
